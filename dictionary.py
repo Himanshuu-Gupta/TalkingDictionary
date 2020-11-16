@@ -6,7 +6,6 @@ from difflib import get_close_matches
 similarity_index=0.8
 max_similar_matches=5
 
-
 dict_object = json.load(open("dictionary.json")) 
 
 #####################################################
